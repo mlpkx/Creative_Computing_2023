@@ -1,8 +1,6 @@
-
 <!DOCTYPE html>
 <html>
 <head>
-<title>Creative Computing Assignment 1</title>
 </head>
 <body>
 
